@@ -1,0 +1,12 @@
+#  MacOS
+.DS_STORE
+
+# Go
+/go.mod
+go.sum
+main.go
+test_main.go
+
+# Other
+.env
+*.log
